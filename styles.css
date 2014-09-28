@@ -6,6 +6,29 @@ body {
 	padding:0;	
 }
 
+#page {
+	background-color: black;
+}
+
+#logo {
+	width: 150px;
+	margin: 10px auto 10px auto;
+}
+
+ul {
+	width: 570px;
+	padding: 15px;
+	margin: 0px auto 0px auto;
+	border-top: 2px solid white;
+	border-bottom: 1px solid white;
+	text-align: center;
+}
+
+li {
+	display: inline;
+	margin: 0px 3px;
+}
+
 #info {
 	background:#333;
 	opacity:0.8;
@@ -18,9 +41,9 @@ body {
 	z-index:10
 }
 
-	#info p {
-		padding:0 10px;
-	}
+#info p {
+	padding:0 10px;
+}
 
 a {
 	text-decoration:none;
@@ -39,7 +62,6 @@ a:hover {
 	left:50%;
 	margin-left:-350px;
 }
-
 
 
 /* HEXAGON STARTS HERE */
