@@ -11,7 +11,7 @@ body {
 }
 
 #logo {
-	width: 100px;
+	width: 80px;
 	margin: 10px auto 10px auto;
 }
 
@@ -146,32 +146,6 @@ li {
 		transform: rotate(60deg) translate(-48px, -11px);	
 		bottom:0;
 	}		
-
-
-	
-	/* Custom styles*/
-	.hex .inner {		
-		color:#eee;
-	}
-	
-	.hex h4 {
-		font-family: 'Josefin Sans', sans-serif;		
-		margin:0;			
-	}
-	
-	.hex hr {
-		border:0;
-		border-top:1px solid #eee;
-		width:60%;
-		margin:15px auto;
-	}
-	
-	.hex p {
-		font-size:16px;
-		font-family: 'Kotta One', serif;
-		width:80%;
-		margin:0 auto;
-	}
 
 	.hex.hex-1 {
 		background: #74cddb;
