@@ -11,13 +11,13 @@ body {
 }
 
 #logo {
-	width: 150px;
+	width: 1750px;
 	margin: 10px auto 10px auto;
 }
 
 ul {
 	width: 570px;
-	padding: 15px;
+	padding: 25px;
 	margin: 0px auto 0px auto;
 	border-top: 2px solid white;
 	border-bottom: 1px solid white;
@@ -33,13 +33,11 @@ li {
 	width:700px;
 	height:100%;
 	position:absolute;
-	top:50px;
+	top:500px;
 	left:50%;
 	margin-left:-350px;
 }
 
-
-/* HEXAGON STARTS HERE */
 .hex {
 	width:150px;
 	height:86px;
