@@ -11,7 +11,7 @@ body {
 }
 
 #logo {
-	width: 1750px;
+	width: 150px;
 	margin: 10px auto 10px auto;
 }
 
@@ -124,11 +124,11 @@ li {
 	
 
 	.hex .corner-1:before {
-		-webkit-transform: rotate(-60deg) translate(-87px, 0px);
-		-moz-transform: rotate(-60deg) translate(-87px, 0px);
-		-ms-transform: rotate(-60deg) translate(-87px, 0px);
-		-o-transform: rotate(-60deg) translate(-87px, 0px);
-		transform: rotate(-60deg) translate(-87px, 0px);	
+		-webkit-transform: rotate(-60deg) translate(-86px, 0px);
+		-moz-transform: rotate(-60deg) translate(-86px, 0px);
+		-ms-transform: rotate(-60deg) translate(-86px, 0px);
+		-o-transform: rotate(-60deg) translate(-86px, 0px);
+		transform: rotate(-60deg) translate(-86px, 0px);	
 	  -webkit-transform-origin: 0 0;
 	  -moz-transform-origin: 0 0;
 	  -ms-transform-origin: 0 0;
