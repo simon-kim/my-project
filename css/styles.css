@@ -3,7 +3,8 @@ body {
 	font-size:12px;
 	background: black;
 	margin:0;
-	padding:0;	
+	padding:0;
+	border: 4px double white;
 }
 
 #page {
@@ -11,12 +12,11 @@ body {
 	min-width: 720px;
 	margin: 10px auto 10px auto;
 	padding: 20px;
-	border: 4px double white;
 	background-color: black;
 }
 
 #logo {
-	width: 110px;
+	width: 170px;
 	margin: 10px auto 10px auto;
 }
 
