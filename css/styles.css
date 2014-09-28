@@ -1,16 +1,12 @@
 body {
 	font-family:arial;
 	font-size:12px;
-	max-width: 940px;
-	min-width: 720px;
 	background: #3c3c3e;
 	margin:0;
 	padding:0;
 }
 
 #page {
-	max-width: 940px;
-	min-width: 720px;
 	margin: 10px auto 10px auto;
 	padding: 20px;
 	background-color: black;
