@@ -4,7 +4,6 @@ body {
 	background: black;
 	margin:0;
 	padding:0;
-	border: 4px double white;
 }
 
 #page {
@@ -16,7 +15,7 @@ body {
 }
 
 #logo {
-	width: 170px;
+	width: 250px;
 	margin: 10px auto 10px auto;
 }
 
