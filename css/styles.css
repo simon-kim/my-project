@@ -13,7 +13,7 @@ body {
 }
 
 #logo {
-	width: 245x;
+	width: 230x;
 	margin: 10px auto 10px auto;
 }
 
@@ -41,7 +41,7 @@ a {
 	width:700px;
 	height:100%;
 	position:absolute;
-	top:500px;
+	top:700px;
 	left:50%;
 	margin-left:-350px;
 }
