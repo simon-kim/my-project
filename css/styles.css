@@ -185,4 +185,9 @@ h1 {
 	position: absolute;
 	top: 0px;
 	right: -13px;
+	text-align: webkit-match-parent;
+	color: white;
+	font-size: 20px;
+	display: block;
+	vertical-align: baseline;
 }
