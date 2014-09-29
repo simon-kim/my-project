@@ -158,10 +158,6 @@ h1 {
 		bottom:0;
 	}		
 
-.hex span {
-	display: none;
-}
-
 span .name {
 	background-color: gray;
 	bottom: 5px;
