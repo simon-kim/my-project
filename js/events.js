@@ -13,7 +13,7 @@ $(function() {
 
 $(".hex.ssw.adc").on("click mouseover", function() {
   team = "Team: " + teamSSW + "<br />";
-  region = "Region: Korea" + "<br />;
+  region = "Region: Korea" + "<br />";
   role = "Role: " + adc;
   $("#notes").html(team + region + role);
   });
@@ -21,7 +21,7 @@ $(".hex.ssw.adc").on("click mouseover", function() {
 
 $(".hex.ssw.supp").on("click mouseover", function() {
   team = "Team: " + teamSSW + "<br />";
-  region = "Region: Korea" + "<br />;
+  region = "Region: Korea" + "<br />";
   role = "Role: " + supp;
   $("#notes").html(team + region + role);
   });
@@ -29,7 +29,7 @@ $(".hex.ssw.supp").on("click mouseover", function() {
 
 $(".hex.ssw.mid").on("click mouseover", function() {
   team = "Team: " + teamSSW + "<br />";
-  region = "Region: Korea" + "<br />;
+  region = "Region: Korea" + "<br />";
   role = "Role: " + mid;
   $("#notes").html(team + region + role);
   });
@@ -37,7 +37,7 @@ $(".hex.ssw.mid").on("click mouseover", function() {
 
 $(".hex.ssw.jung").on("click mouseover", function() {
   team = "Team: " + teamSSW + "<br />";
-  region = "Region: Korea" + "<br />;
+  region = "Region: Korea" + "<br />";
   role = "Role: " + jung;
   $("#notes").html(team + region + role);
   });
@@ -45,7 +45,7 @@ $(".hex.ssw.jung").on("click mouseover", function() {
 
 $(".hex.ssw.top").on("click mouseover", function() {
   team = "Team: " + teamSSW + "<br />";
-  region = "Region: Korea" + "<br />;
+  region = "Region: Korea" + "<br />";
   role = "Role: " + top;
   $("#notes").html(team + region + role);
   });
@@ -53,7 +53,7 @@ $(".hex.ssw.top").on("click mouseover", function() {
 
 $(".hex.ssw.adc").on("click mouseover", function() {
   team = "Team: " + teamSSW + "<br />";
-  region = "Region: Korea" + "<br />;
+  region = "Region: Korea" + "<br />";
   role = "Role: " + adc;
   $("#notes").html(team + region + role);
   });
@@ -61,7 +61,7 @@ $(".hex.ssw.adc").on("click mouseover", function() {
 
 $(".hex.ssb.jung").on("click mouseover", function() {
   team = "Team: " + teamSSB + "<br />";
-  region = "Region: Korea" + "<br />;
+  region = "Region: Korea" + "<br />";
   role = "Role: " + jung;
   $("#notes").html(team + region + role);
   });
@@ -69,7 +69,7 @@ $(".hex.ssb.jung").on("click mouseover", function() {
 
 $(".hex.shrc.adc").on("click mouseover", function() {
   team = "Team: " + teamSHRC + "<br />";
-  region = "Region: China" + "<br />;
+  region = "Region: China" + "<br />";
   role = "Role: " + adc;
   $("#notes").html(team + region + role);
   });
