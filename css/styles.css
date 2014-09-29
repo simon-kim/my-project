@@ -158,6 +158,9 @@ h1 {
 		bottom:0;
 	}		
 
-.span {
+.span .name {
+	display: none;
+}
+.span .team {
 	display: none;
 }
