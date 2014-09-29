@@ -9,11 +9,11 @@ $(document).ready(function() {
   });
 });
 
-$(document).ready(function() {
-  $(".hex").on("mouseenter", "div", function() {
-    $(this).find("span").slideToggle();
-  });
-  $(".hex").on("mouseleave", "div", function() {
-    $(this).find("span").slideToggle();
-  });
-});
+$('div').hover(
+  function() {
+    $(this).find("span.name").show();
+  },
+  function() {
+    $(this).find("span.name").hide();
+  }
+);
