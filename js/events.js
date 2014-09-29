@@ -5,7 +5,7 @@ var teamSHRC = "Star Horn Royal Club";
 var adc = "AD Carry";
 var supp = "Support";
 var mid = "Mid Lane";
-var top = "Top Lane";
+var toplane = "Top Lane";
 var jung = "Jungler";
 
 $(function() {
@@ -42,11 +42,11 @@ $(".hex.ssw.jung").hover(
   $("#notes").html(team + region + role);
   }),
 
-$(".hex.hex-gap.ssw.top").hover(
+$(".hex.ssw.top").hover(
   function() {
   team = "Team: " + teamSSW + "<br />";
   region = "Region: Korea" + "<br />";
-  role = "Role: " + top;
+  role = "Role: " + toplane;
   $("#notes").html(team + region + role);
   }),
 
