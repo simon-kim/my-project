@@ -65,7 +65,8 @@ h1 {
 	float:left;
 	margin:25px 5px;
 	text-align:center;
-	zoom:1;
+	zoom:1
+	opacity: 0.4;
 }
 		
 .hex.hex-gap {
