@@ -42,7 +42,7 @@ $(".hex.ssw.jung").hover(
   $("#notes").html(team + region + role);
   }),
 
-$(".hex.ssw.top").hover(
+$(".hex.hex-gap.ssw.top").hover(
   function() {
   team = "Team: " + teamSSW + "<br />";
   region = "Region: Korea" + "<br />";
