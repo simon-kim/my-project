@@ -38,10 +38,6 @@ a {
 	text-transform: uppercase;
 }
 
-h1 {
-	margin-left: -100px;
-}
-
 .container {
 	width:700px;
 	height:100%;
@@ -52,13 +48,9 @@ h1 {
 	opacity: 0.3;
 }
 
-#headline {
-	opacity: 1 !important;
-}
-
-#notes {
-	opacity: 1 !important;
-}
+h1 {
+	margin-left: -100px;
+	opacity: 1;
 }
 
 .hex {
@@ -217,4 +209,5 @@ p {
 	right: 60px;
 	left: 140px;
 	top: 475px;
+	opacity: 1;
 }
