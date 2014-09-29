@@ -160,12 +160,12 @@ h1 {
 
 .hex span {
 	display: none;
+	font-color: white;
+	font-siz: 18px;
 }
 
 .hex .name {
 	background-color: rgba(0, 0, 0, 0.5);
-	font-color: white;
-	font-siz: 18px;
 	bottom: 5px;
 	display: none;
 	font-size: 14px;
