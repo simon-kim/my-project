@@ -15,3 +15,12 @@ $(".hex").hover(
     $(this).find("span.kda").animate({"top": "0","opacity": "0"}, "fast");
   }
 );
+
+$(".hex").hover(
+  function() {
+    $(this).find(".hex").animate({"opacity": "1"}, "fast");
+  },
+  function() {
+    $(this).find(".hex").animate({"opacity": "0"}, "fast");
+  }
+);
