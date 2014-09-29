@@ -13,7 +13,7 @@ body {
 }
 
 #logo {
-	width: 255x;
+	width: 250x;
 	margin: 10px auto 10px auto;
 }
 
@@ -28,8 +28,8 @@ ul {
 
 li {
 	display: inline;
-	font-size: 150%;
-	margin: 0px 50px;
+	font-size: 140%;
+	margin: 0px 40px;
 }
 
 a {
