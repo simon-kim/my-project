@@ -37,6 +37,11 @@ a {
 	text-decoration: none;
 	text-transform: uppercase;
 }
+
+#headline {
+	top: 500px;
+}
+
 .container {
 	width:700px;
 	height:100%;
