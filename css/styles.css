@@ -49,6 +49,11 @@ h1 {
 	top:475px;
 	left:50%;
 	margin-left:-350px;
+	opacity: 0.3;
+}
+
+#headline {
+	opacity: 1;
 }
 
 .hex {
@@ -65,8 +70,7 @@ h1 {
 	float:left;
 	margin:25px 5px;
 	text-align:center;
-	zoom:1
-	opacity: 0.4;
+	zoom:1;
 }
 		
 .hex.hex-gap {
