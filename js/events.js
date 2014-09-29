@@ -2,7 +2,7 @@ var teamSSW = "Samsung White";
 var teamSSB = "Samsung Blue";
 var teamSHRC = "Star Horn Royal Club";
 
-var adc = "AD Carry;
+var adc = "AD Carry";
 var supp = "Support";
 var mid = "Mid Lane";
 var top = "Top Lane";
