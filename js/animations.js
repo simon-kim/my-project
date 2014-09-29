@@ -16,7 +16,7 @@ $(".hex").hover(
   }
 );
 
-$(".hex").hover(
+$("div").hover(
   function() {
     $(this).find(".hex").animate({"opacity": "1"}, "fast");
   },
