@@ -16,11 +16,11 @@ $(".hex").hover(
   }
 );
 
-$(".container").hover(
+$(".hex").hover(
   function() {
-    $(this).find(".hex").animate({"opacity": "1"}, "fast");
+    $(this).find(".hex.ssw").animate({"opacity": "1"}, "fast");
   },
   function() {
-    $(this).find(".hex").animate({"opacity": "0.3"}, "fast");
+    $(this).find(".hex.ssw").animate({"opacity": "0.3"}, "fast");
   }
 );
