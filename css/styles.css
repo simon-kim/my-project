@@ -196,7 +196,7 @@ p {
 	background-color: #fff;
 	color: #666;
 	padding: 10px;
-	display: inline;
+	display: inline-block;
 	margin: 20px auto 20px auto;
 	width: 140px;
 	border-radius: 5px;
