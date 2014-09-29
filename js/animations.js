@@ -9,9 +9,9 @@ $(".hex").hover(
 
 $(".hex").hover(
   function() {
-    $(this).find("span.kda").show();
+    $(this).find("span.kda").animate({"top": "-14px","opacity": "1"}, "fast");
   },
   function() {
-    $(this).find("span.kda").hide();
+    $(this).find("span.kda").animate({"top": "0","opacity": "0"}, "fast");
   }
 );
