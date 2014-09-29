@@ -52,6 +52,7 @@ h1 {
 	opacity: 1;
 }
 
+/* find a way to change individual hex opacities. */
 .hex {
 	width:150px;
 	height:86px;
