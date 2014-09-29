@@ -37,6 +37,10 @@ a {
 	text-transform: uppercase;
 }
 
+h1 {
+	margin-left: -100px;
+}
+
 .container {
 	width:700px;
 	height:100%;
