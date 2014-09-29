@@ -161,3 +161,27 @@ h1 {
 .hex span {
 	display: none;
 }
+
+span .name {
+	background-color: gray;
+	bottom: 5px;
+	display: none;
+	font-size: 14px;
+	height: 30px;
+	left: 5px;
+	line-height: 30px;
+	position: absolute;
+	right: 5px;
+	text-indent: 10px;
+	top: auto;
+}
+
+span .team {
+	opacity: 0;
+	moz-transform: rotate(20deg);
+	webkit-transform: rotate(20deg);
+	transform: rotate(20deg);
+	position: absolute;
+	top: 0px;
+	right: -13px;
+}
