@@ -53,7 +53,7 @@ h1 {
 }
 
 #headline, #note {
-	opacity: 1;
+	opacity: 1 !important;
 }
 
 .hex {
