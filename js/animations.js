@@ -9,9 +9,9 @@ $(".hex").hover(
 
 $(".hex").hover(
   function() {
-    $(this).find("span.team").show();
+    $(this).find("span.kda").show();
   },
   function() {
-    $(this).find("span.team").hide();
+    $(this).find("span.kda").hide();
   }
 );
