@@ -197,6 +197,8 @@ p {
 	color: #666;
 	padding: 10px;
 	display: inline-block;
+	font-size: 14px;
+	font-style: bold;
 	margin: 20px auto 20px auto;
 	width: 140px;
 	border-radius: 5px;
