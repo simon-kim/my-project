@@ -1,19 +1,17 @@
-$(document).ready(function() {
-  $(".hex").on("mouseenter", function() {
-    $(this).addClass("highlight");
-    $(this).find(".team").animate({"top": "-14px","opacity": "1"}, "fast");
-  });
-  $(".hex").on("mouseleave", function() {
-    $(this).removeClass("highlight");
-    $(this).find(".team").animate({"top": "0","opacity": "0"}, "fast");
-  });
-});
-
 $(".hex").hover(
   function() {
     $(this).find("span.name").show();
   },
   function() {
     $(this).find("span.name").hide();
+  }
+);
+
+$(".hex").hover(
+  function() {
+    $(this).find("span.team").show();
+  },
+  function() {
+    $(this).find("span.team").hide();
   }
 );
