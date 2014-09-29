@@ -16,7 +16,7 @@ $(".hex").hover(
   }
 );
 
-$(".ssw").hover(
+$(".container").hover(
   function() {
     $(this).find(".hex").animate({"opacity": "1"}, "fast");
   },
