@@ -52,7 +52,7 @@ h1 {
 	opacity: 0.3;
 }
 
-#headline {
+#headline, #note {
 	opacity: 1;
 }
 
