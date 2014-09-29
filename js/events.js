@@ -11,6 +11,7 @@ var jung = "Jungler";
 $(function() {
   var team, region, role;
 
+// need to reduce the code here. find a way to show the role without adding an additional class? we'll see.
 $(".hex.ssw.adc").hover( 
   function() {
   team = "Team: " + teamSSW + "<br />";
