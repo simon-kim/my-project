@@ -9,7 +9,7 @@ $(document).ready(function() {
   });
 });
 
-$('div').hover(
+$(".hex").hover(
   function() {
     $(this).find("span.name").show();
   },
