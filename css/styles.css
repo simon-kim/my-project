@@ -72,7 +72,6 @@ h1 {
 		
 .hex.hex-gap {
 	margin-left: 86px;
-	opacity: 0.3;
 }
 
 .hex a {
@@ -83,7 +82,6 @@ h1 {
 	position:absolute;
 	top:0;
 	left:0;
-	opacity: 0.3;
 }
 
 .hex .corner-1,
@@ -95,7 +93,6 @@ h1 {
 	height:100%;
 	background: inherit;								
 	z-index:-2;
-	opacity: 0.3;
 	overflow:hidden;
 	-webkit-backface-visibility: hidden;
 	-moz-backface-visibility: hidden;
@@ -106,7 +103,6 @@ h1 {
 	
 .hex .corner-1 {
 	z-index:-1;
-	opacity: 0.3;
 	-webkit-transform: rotate(60deg);
 	-moz-transform: rotate(60deg);
 	-ms-transform: rotate(60deg);
@@ -115,7 +111,6 @@ h1 {
 }
 	
 .hex .corner-2 {
-	opacity: 0.3;
 	-webkit-transform: rotate(-60deg);
 	-moz-transform: rotate(-60deg);
 	-ms-transform: rotate(-60deg);
@@ -126,7 +121,6 @@ h1 {
 .hex .corner-1:before,
 .hex .corner-2:before {
 	width: 173px;
-	opacity: 0.3;
 	height:	173px;
 	content: '';
 	position: absolute;
@@ -145,7 +139,6 @@ h1 {
 	
 
 .hex .corner-1:before {
-	opacity: 0.3;
 	-webkit-transform: rotate(-60deg) translate(-86px, 0px);
 	-moz-transform: rotate(-60deg) translate(-86px, 0px);
 	-ms-transform: rotate(-60deg) translate(-86px, 0px);
@@ -159,7 +152,6 @@ h1 {
 }			
 	
 .hex .corner-2:before {
-	opacity: 0.3;
 	-webkit-transform: rotate(60deg) translate(-43px, -11px);
 	-moz-transform: rotate(60deg) translate(-43px, -11px);
 	-ms-transform: rotate(60deg) translate(-43px, -11px);
