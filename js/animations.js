@@ -18,9 +18,9 @@ $(".hex").hover(
 
 $("div").hover(
   function() {
-    $(this).find(".container").animate({"opacity": "1"}, "fast");
+    $(this).find(".hex").animate({"opacity": "1"}, "fast");
   },
   function() {
-    $(this).find(".container").animate({"opacity": "0"}, "fast");
+    $(this).find(".hex").animate({"opacity": "0"}, "fast");
   }
 );
