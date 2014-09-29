@@ -11,9 +11,9 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".hex").on("mouseenter", "div", function() {
-    $(this).find(".name").slideToggle();
+    $(this).find("span").slideToggle();
   });
-  $(".photos").on("mouseleave", "div", function() {
-    $(this).find(".name").slideToggle();
+  $(".hex").on("mouseleave", "div", function() {
+    $(this).find("span").slideToggle();
   });
 });
