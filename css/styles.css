@@ -12,9 +12,10 @@ body {
 	background-color: black;
 }
 
-#logo {
-	width: 150px;
-	margin: 10px auto 25px auto;
+img.displayed {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ul {
